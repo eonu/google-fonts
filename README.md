@@ -6,7 +6,7 @@
 
 - 400
 
-  <img src="./speciment/roboto-400.png">
+  <img src="./specimen/roboto-400.png">
 
 - 500
 
